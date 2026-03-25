@@ -14,7 +14,7 @@
 **A Windows desktop music player with user authentication, playlist management and file search.**  
 Built with C# and Windows Forms as a school project focused on desktop application development.
 
-> ⚠️ **Note:** The source code, UI labels, comments and variable names are written in **Portuguese (pt-BR)**, as this project was developed for a Brazilian school assignment.
+> ⚠️ **Note:** The source code, UI labels, comments and variable names are written in **Portuguese (pt-BR)**, as this project was developed for a Portuguese school assignment.
 
 [Features](#-features) • [How It Works](#-how-it-works) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Project Structure](#-project-structure)
 
