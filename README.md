@@ -156,16 +156,6 @@ DRYLOUD2/
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Audio converter (MP3 export)
-- [ ] Persistent playlist saved to disk
-- [ ] Skip to next / previous track
-- [ ] Volume and progress bar controls
-- [ ] Dark mode UI
-
----
-
 <div align="center">
 
 Made with 💜 by [EduhxH](https://github.com/EduhxH)
